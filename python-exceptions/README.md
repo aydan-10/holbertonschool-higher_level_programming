@@ -1,1 +1,1 @@
-Python - Exceptions project
+Python - Exceptions
